@@ -7,7 +7,7 @@
 * 2058 - Największa dotychczas, trzydziestoosobowa gruba "kolonistów" ląduje w bazie na Marsie, która od tej pory liczy 102 osoby. Sukces ekspedycji powoduje, że duża część światowych pieniędzy przesunięta zostaje do rozpoczęcia masowej produkcji i optymalizacji komponentów potrzebnych do zbudowania stabilnej społeczności na czerwonej planecie. Międzynarodowa Agencja Naukowa Marsa ogłasza zmianę priorytetów organizacji na stworzenie stabilnej społeczności poza Ziemią i zmienia nazwę na Ogólnoświatową Fundację Kolonizacji Marsa.
 * 2059 - Chiny ogłaszają, że pracują nad projektem sztucznej sfery klimatycznej, która pozwoliłaby na stworzenie warunków do życia w strefie zagrożonej wymarciem ssaków. Pierwszym celem projektu ogłaszają Pekin, który znajduje się w takiej strefie.
 * 2060 - USA ogłasza dołączenie do chińskiego projektu z planem chronienia Chicago i Nowego Yorku.
-* 2062 - Rozpoczynają się budowy Stref Klimatycznych nad Pekinem i Chicago. Według planów kopuła pekińska ma średnicę 20km, pokrywa obszar 1200 km^2^ i zapewnia schronienie 5 milionom mieszkańców. To zaledwie jedna piąta populacji miasta. Kopuła w Chicago będzie miała średnicę 10km i ochroni 2.5 miliona mieszkańców. 
+* 2062 - Rozpoczynają się budowy Stref Klimatycznych nad Pekinem i Chicago. Według planów kopuła pekińska ma średnicę 20km, pokrywa obszar 1200 km^2^ i zapewnia schronienie 10 milionom mieszkańców. To połowa populacji miasta. Kopuła w Chicago będzie miała średnicę 10km i ochroni 2.5 miliona mieszkańców. 
 * 2064 - Do projektu dołączają inne państwa świata takiej jak Hiszpania, Indie, Brazylia i bogatsze kraje Bliskiego Wschodu.
 * 2070 - Pierwszy "autokar na Marsa" osiąga cel ze 100 kolonistami na pokładzie. Kolonia na Marsie liczy sobie 250 osób. Kolonia zostaje uznana za stabilną i samowystarczalną. Kontrola populacji w koloni dopuszcza posiadanie potomstwa za zgodą władz.
 * 2071 - Pierwszy "marsjanin" przychodzi na świat.
@@ -24,5 +24,5 @@
 
 Jest rok 2217. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MzE4OTRdfQ==
+eyJoaXN0b3J5IjpbMTc3NzM0MjEzNiw0OTQzMTg5NF19
 -->
